@@ -4,11 +4,11 @@ Briefly describe your app here.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Aleksandrina Stoyanova ([alya_st@berkeley.edu](mailto:alya_st@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [Prog-02B] (https://youtu.be/yg-85JtAIAY)
 
 ## Screenshots
 
@@ -16,5 +16,5 @@ See [your demo video title here] (https://link_to_your_video)
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
+* Used Section Slides for Watch to Phone and Phone to Watch communication
 * Any other support

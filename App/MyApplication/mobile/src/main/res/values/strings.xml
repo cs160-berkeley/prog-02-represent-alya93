@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Represent</string>
+    <string name="title_activity_congressional_view">CongressionalViewActivity</string>
+    <string name="title_activity_congresional_view">CongresionalViewActivity</string>
+    <string name="google_app_id">34567</string>
+</resources>
